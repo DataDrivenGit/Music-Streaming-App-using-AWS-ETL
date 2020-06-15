@@ -41,5 +41,5 @@ Sparkify, a startup company with a music streaming app, would like to analyze th
 
 ## Execute the below files in order each time before pipeline.
 1. create_tables.py $ python create_tables.py
-2. etl.ipynb/et.py $ python etl.py
+2. etl.ipynb/etl.py $ python etl.py
 3. test.ipynb => run in jupyter notebook
